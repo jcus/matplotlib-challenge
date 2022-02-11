@@ -4,7 +4,9 @@
 
 Use Python Matplotlib with plot and apply it to science data and dataset:
 
-![Laboratory](Images/Laboratory.jpg)
+<a href="url"><img src="http://url.to/Images/Laboratory.jpg" align="left" height="48" width="48" ></a>
+
+![Laboratory](/Images/Laboratory.jpg)
 
 As remaining adamant that science was the way for me, I've joined Pymaceuticals Inc., a burgeoning pharmaceutical company based out of San Diego. Pymaceuticals specializes in anti-cancer pharmaceuticals. In the most recent efforts, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
@@ -71,8 +73,7 @@ Here are some final considerations:
   Again, don't let the magnitude of a programming task scare you off. Ultimately, every programming problem boils down to a handful of bite-sized tasks.
 
 * Get help when you need it! There is never any shame in asking. But, as always, ask a _specific_ question. You'll never get a great answer to "I'm lost."
-
-- - -
+ - -
 
 ## References
 
